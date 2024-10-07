@@ -11,11 +11,6 @@
 
 <br><br>
 
-To test these projects in your local environment with C++, delete the build folder and rebuild it. This is necessary because the folder paths will change, because of that you need to rebuild the project.<br>
-For python you can execute files directly 
-
-<br><br>
-
 
 ## Example Videos  
 
@@ -44,9 +39,14 @@ For python you can execute files directly
     </td>
   </tr>
 </table>
- 
 
-<br><br><br><br>
+<br><br>
+
+To test these projects in your local environment with C++, delete the build folder and rebuild it. This is necessary because the folder paths will change, because of that you need to rebuild the project.<br>
+For python you can execute files directly 
+
+<br><br>
+
 ## Folder Hierarchy
 
 * opencv-projects-c++/ObjectTracking-sift
