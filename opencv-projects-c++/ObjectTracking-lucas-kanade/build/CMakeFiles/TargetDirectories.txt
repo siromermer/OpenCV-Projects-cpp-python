@@ -1,0 +1,3 @@
+/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-lucas-kanade/build/CMakeFiles/lucas-kanade-tracking-exe.dir
+/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-lucas-kanade/build/CMakeFiles/edit_cache.dir
+/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-lucas-kanade/build/CMakeFiles/rebuild_cache.dir

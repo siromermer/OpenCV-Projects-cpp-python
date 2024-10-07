@@ -1,0 +1,3 @@
+/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-sift/build/CMakeFiles/sift-tracking-exe.dir
+/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-sift/build/CMakeFiles/edit_cache.dir
+/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-sift/build/CMakeFiles/rebuild_cache.dir
