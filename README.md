@@ -47,18 +47,4 @@ For python you can execute files directly
 
 <br><br>
 
-## Folder Hierarchy
 
-* opencv-projects-c++/ObjectTracking-sift
-* opencv-projects-c++/ObjectTracking-orb
-* opencv-projects-c++/ObjectTracking-fast
-* opencv-projects-c++/ObjectTracking-bgg-subtraction
-* opencv-projects-c++/ObjectTracking-lucas-kanade
-* opencv-projects-c++/ObjectTracking-meanshift
-
-* opencv-projects-python/sift-tracking.py
-* opencv-projects-python/orb-tracking.py
-* opencv-projects-python/fast-tracking.py
-* opencv-projects-python/background-subtraction-tracking.py
-* opencv-projects-python/lucas-kanade-tracking.py
-* opencv-projects-python/meanshift-tracking.py
