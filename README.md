@@ -1,6 +1,6 @@
 ## This repository is all about computer vision
 
-#### It includes small projects on various computer vision topics, such as object detection, object tracking, classical computer vision techniques, image segmentation, feature extraction algorithms, and more.
+#### It includes small projects on various computer vision topics, such as object detection, object tracking, classical computer vision techniques, image segmentation, image classification, feature extraction algorithms, and more.
 
 #### Most of the projects have both C++ and Python implementations.
 
@@ -8,19 +8,55 @@
 
 #### Each project includes an article that explains how the algorithm works, how the code is structured, provides general information about the algorithms, and much more.
 
-
 #### You can find all the articles in the README files for each folder, and you can check all of my articles from this link: [https://medium.com/@siromermer](https://medium.com/@siromermer).
 
+<br>
 
+#### Classical Computer Vision (Pure OpenCV Mostly)
 
+<table>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-SIFT">Tracking Objects with SIFT algorithm</a> </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-fast">Tracking Objects with FAST algorithm</a>  </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-ORB">Tracking Objects with ORB algorithm</a>  </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-kalman">Tracking Objects with Kalman algorithm</a>  </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-lucas-kanade">Tracking Objects with Lucas Kanade algorithm</a>  </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-meanshift">Tracking Objects with Mean shift algorithm</a>  </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-background-subtraction">Tracking Objects with Background Subtraction</a> </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/OCR-Text-Extraction">Text extraction from pages (OCR)</a> </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Perspective-Transformation-opencv">Perspective Transformation</a>  </td>
+  </tr>
+ <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Color-based-object-detection-gui">Color-based Object Detection GUI</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Opencv-object-detection-Cascade">Object Detection with OpenCV Cascade Classifiers</a>   </td>
+    <td></td>
+  </tr>
+</table>
 
+<br>
+
+#### Deep Learning (PyTorch, TensorFlow)
+<table>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-detection-gui">YOLO Object Detection GUI</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Detect-YOLO-Segment-SAM">Detection (YOLO) + Segmentation (SAM)</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Sequential-Detection-Classification">Detection (YOLO) + Classification (TensorFlow)</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-NAS-custom-training">Custom YOLO-NAS Training Pipeline</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-inference-cpp">YOLO Model Inference in C++ </a></td>
+    <td></td>
+  </tr>
+</table>
 
 <br><br>
 
-
 ## Example Videos  
 
- 
 <table>
   <tr>
     <td>
