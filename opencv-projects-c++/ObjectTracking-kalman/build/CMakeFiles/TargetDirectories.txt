@@ -1,3 +1,0 @@
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-kalman/build/CMakeFiles/kalman-tracking-exe.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-kalman/build/CMakeFiles/edit_cache.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-kalman/build/CMakeFiles/rebuild_cache.dir

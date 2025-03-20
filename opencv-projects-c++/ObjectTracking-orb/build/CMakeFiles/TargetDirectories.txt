@@ -1,3 +1,0 @@
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-orb/build/CMakeFiles/orb-tracking-exe.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-orb/build/CMakeFiles/edit_cache.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-orb/build/CMakeFiles/rebuild_cache.dir

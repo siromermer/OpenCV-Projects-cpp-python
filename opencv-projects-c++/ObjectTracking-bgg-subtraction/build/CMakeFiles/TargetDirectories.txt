@@ -1,3 +1,0 @@
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-bgg-subtraction/build/CMakeFiles/bgg-subtraction-exe.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-bgg-subtraction/build/CMakeFiles/edit_cache.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-bgg-subtraction/build/CMakeFiles/rebuild_cache.dir

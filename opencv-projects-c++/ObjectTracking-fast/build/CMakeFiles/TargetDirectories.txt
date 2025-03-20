@@ -1,3 +1,0 @@
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-fast/build/CMakeFiles/fast-tracking-exe.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-fast/build/CMakeFiles/edit_cache.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-fast/build/CMakeFiles/rebuild_cache.dir

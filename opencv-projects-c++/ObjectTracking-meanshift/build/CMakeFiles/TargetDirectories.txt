@@ -1,3 +1,0 @@
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-meanshift/build/CMakeFiles/meanshift-tracking-exe.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-meanshift/build/CMakeFiles/edit_cache.dir
-/home/omer/tracking-projects/opencv-projects-c++/ObjectTracking-meanshift/build/CMakeFiles/rebuild_cache.dir
