@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sirom\Desktop\github-cv\ObjectTracking-SIFT\build\CMakeFiles\b664c22d15f5445910876ab4e5d9ed50\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BE35A18-C0C0-3673-B459-9E47D69332D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

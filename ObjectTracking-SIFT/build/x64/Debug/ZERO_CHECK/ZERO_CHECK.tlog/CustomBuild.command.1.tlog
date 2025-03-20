@@ -1,0 +1,10 @@
+^C:\USERS\SIROM\DESKTOP\GITHUB-CV\OBJECTTRACKING-SIFT\BUILD\CMAKEFILES\B664C22D15F5445910876AB4E5D9ED50\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sirom/Desktop/github-cv/ObjectTracking-SIFT -BC:/Users/sirom/Desktop/github-cv/ObjectTracking-SIFT/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sirom/Desktop/github-cv/ObjectTracking-SIFT/build/ObjectTracking-SIFT.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

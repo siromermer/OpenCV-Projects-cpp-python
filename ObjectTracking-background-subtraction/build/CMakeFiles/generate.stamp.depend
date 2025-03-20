@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Libraries/opencv/build/OpenCVConfig-version.cmake
+C:/Libraries/opencv/build/OpenCVConfig.cmake
+C:/Libraries/opencv/build/x64/vc16/lib/OpenCVConfig.cmake
+C:/Libraries/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake
+C:/Libraries/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake
+C:/Libraries/opencv/build/x64/vc16/lib/OpenCVModules.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/CMakeLists.txt
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/build/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/build/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/build/CMakeFiles/3.28.3/CMakeSystem.cmake

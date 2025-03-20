@@ -1,0 +1,3 @@
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-lucas-kanade/build/CMakeFiles/lucas-kanade-tracking.dir
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-lucas-kanade/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-lucas-kanade/build/CMakeFiles/ZERO_CHECK.dir

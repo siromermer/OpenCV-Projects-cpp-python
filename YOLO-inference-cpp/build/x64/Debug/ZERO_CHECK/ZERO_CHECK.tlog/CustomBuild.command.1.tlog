@@ -1,0 +1,10 @@
+^C:\USERS\SIROM\DESKTOP\GITHUB-CV\YOLO-INFERENCE-CPP\BUILD\CMAKEFILES\8A5E233D65A98DA5909338851FB11180\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sirom/Desktop/github-cv/YOLO-inference-cpp -BC:/Users/sirom/Desktop/github-cv/YOLO-inference-cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sirom/Desktop/github-cv/YOLO-inference-cpp/build/YOLO-inference-cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

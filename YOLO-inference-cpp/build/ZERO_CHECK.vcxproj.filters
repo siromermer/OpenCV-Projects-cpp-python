@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sirom\Desktop\github-cv\YOLO-inference-cpp\build\CMakeFiles\8a5e233d65a98da5909338851fb11180\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7E8F0F84-5A47-31B7-B233-48E5741B99FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

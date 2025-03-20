@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sirom\Desktop\github-cv\ObjectTracking-lucas-kanade\lucas-kanade-tracking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sirom\Desktop\github-cv\ObjectTracking-lucas-kanade\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{585E279A-D1B4-3875-B3E1-E0BA56C044C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

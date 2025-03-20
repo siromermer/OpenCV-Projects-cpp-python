@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sirom\Desktop\github-cv\ObjectTracking-ORB\orb-tracking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sirom\Desktop\github-cv\ObjectTracking-ORB\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8CC3CCE4-C192-3973-B7D7-8DA4FD759C2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

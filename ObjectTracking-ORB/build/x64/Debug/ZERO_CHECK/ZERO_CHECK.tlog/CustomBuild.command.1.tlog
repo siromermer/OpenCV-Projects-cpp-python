@@ -1,0 +1,10 @@
+^C:\USERS\SIROM\DESKTOP\GITHUB-CV\OBJECTTRACKING-ORB\BUILD\CMAKEFILES\648E0DFBD9A7628AF8B8246226A5AF94\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sirom/Desktop/github-cv/ObjectTracking-ORB -BC:/Users/sirom/Desktop/github-cv/ObjectTracking-ORB/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sirom/Desktop/github-cv/ObjectTracking-ORB/build/ObjectTracking-orb.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

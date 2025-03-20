@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sirom\Desktop\github-cv\YOLO-inference-cpp\object_detection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sirom\Desktop\github-cv\YOLO-inference-cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8CEB31E5-FD71-3B51-A20F-EA3AD2EC6728}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-meanshift/build/CMakeFiles/meanshift-tracking.dir
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-meanshift/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sirom/Desktop/github-cv/ObjectTracking-meanshift/build/CMakeFiles/ZERO_CHECK.dir

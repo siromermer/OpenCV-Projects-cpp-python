@@ -1,3 +1,13 @@
 {
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp"
+    },
     "C_Cpp.errorSquiggles": "disabled"
 }

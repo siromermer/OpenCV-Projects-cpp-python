@@ -1,0 +1,10 @@
+^C:\USERS\SIROM\DESKTOP\GITHUB-CV\OBJECTTRACKING-BACKGROUND-SUBTRACTION\BUILD\CMAKEFILES\2738CF55F72BEAEDE4D2C72514CA6DC9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction -BC:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sirom/Desktop/github-cv/ObjectTracking-background-subtraction/build/ObjectTracking-background-subtraction.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
