@@ -1,14 +1,11 @@
 ## This repository is all about computer vision
 
-#### It includes small projects on various computer vision topics, such as object detection, object tracking, classical computer vision techniques, image segmentation, image classification, feature extraction algorithms, and more.
+##### It includes small projects on various computer vision topics, such as object detection, object tracking, classical computer vision techniques, image segmentation, image classification, feature extraction algorithms, and more.
+##### Most of the projects have both C++ and Python implementations.
+##### I will continue to update this repository with new content.
 
-#### Most of the projects have both C++ and Python implementations.
-
-#### I will continue to update this repository with new content.
-
-#### Each project includes an article that explains how the algorithm works, how the code is structured, provides general information about the algorithms, and much more.
-
-#### You can find all the articles in the README files for each folder, and you can check all of my articles from this link: [https://medium.com/@siromermer](https://medium.com/@siromermer).
+##### Each project includes an article that explains how the algorithm works, how the code is structured, provides general information about the algorithms, and much more.
+##### You can find all the articles in the README files for each folder, and you can check all of my articles from this link: [https://medium.com/@siromermer](https://medium.com/@siromermer).
 
 <br>
 
