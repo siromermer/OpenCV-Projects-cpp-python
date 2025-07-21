@@ -1,1 +1,1 @@
-#### Article about this project: https://medium.com/@siromermer/running-yolo-models-in-c-for-object-detection-a698b3b7cd5f
+#### Article about this project: https://visionbrick.com/running-yolo-models-in-c-for-real-time-object-detection/
