@@ -6,6 +6,7 @@
  
 
 #### Each project includes an article that explains how the algorithm works, how the code is structured, provides general information about the algorithms, and much more.
+### Right now, you can find all articles from my medium page, but everyday I am updating posts and uploading them to my new personal website, I recommend you to read from this link: https://visionbrick.com/
 ##### You can find all the articles in the README files for each folder, and you can check all of my articles from this link: [https://medium.com/@siromermer](https://medium.com/@siromermer).
 
 <br>
