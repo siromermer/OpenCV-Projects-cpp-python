@@ -1,1 +1,1 @@
-#### Article about this project: https://medium.com/@siromermer/object-tracking-and-path-mapping-using-lucas-kanade-optical-flow-in-opencv-2ea018e391d4
+#### Article about this project: https://visionbrick.com/object-tracking-and-trajectory-mapping-using-lucas-kanade-optical-flow-in-opencv/
