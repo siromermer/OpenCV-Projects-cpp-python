@@ -1,1 +1,1 @@
-#### Article about this project: https://medium.com/@siromermer/detect-and-segment-objects-with-yolo-and-sam-0dc3ce4129a7
+#### Article about this project: https://visionbrick.com/detection-and-segmentation-with-yolo-and-sam/
