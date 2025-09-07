@@ -1,13 +1,12 @@
 ## This repository is all about computer vision
 
-##### It includes small projects on various computer vision topics, such as object detection, object tracking, classical computer vision techniques, image segmentation, image classification, feature extraction algorithms, and more.
-##### Most of the projects have both C++ and Python implementations.
-##### I will continue to update this repository with new content.
+#### It includes small projects on various computer vision topics, such as object detection, object tracking, classical computer vision techniques, image segmentation, image classification, feature extraction algorithms, and more.
+#### Each project includes an article that explains how the algorithm works, how the code is structured, provides general information about the algorithms, and much more.
+### Right now, you can find all articles on my personal website. I recommend reading them here: https://visionbrick.com/
+
+#### Most of the projects have both C++ and Python implementations.
  
 
-#### Each project includes an article that explains how the algorithm works, how the code is structured, provides general information about the algorithms, and much more.
-### Right now, you can find all articles from my medium page, but everyday I am updating posts and uploading them to my new personal website, I recommend you to read from this link: https://visionbrick.com/
-##### You can find all the articles in the README files for each folder, and you can check all of my articles from this link: [https://medium.com/@siromermer](https://medium.com/@siromermer).
 
 <br>
 
@@ -52,7 +51,7 @@
   <tr>
     <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-NAS-custom-training">Custom YOLO-NAS Training Pipeline</a></td>
     <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-inference-cpp">YOLO Model Inference in C++ </a></td>
-    <td></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Blurring-faces-yolo-sam">Blurring Faces with YOLO and SAM Models</a></td>
   </tr>
 </table>
 
