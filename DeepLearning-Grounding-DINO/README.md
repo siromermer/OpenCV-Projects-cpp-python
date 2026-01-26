@@ -1,0 +1,1 @@
+## Article about this project: https://visionbrick.com/grounding-dino-detecting-objects-with-text-prompts/
