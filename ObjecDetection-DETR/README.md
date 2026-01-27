@@ -1,0 +1,1 @@
+## Article about this project (Training DETR Object Detection Model): https://visionbrick.com/pipeline-for-training-detr-object-detection-models/
