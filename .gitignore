@@ -1,0 +1,30 @@
+# Model checkpoints and large files
+*.pth
+*.onnx
+*.pb
+*.h5
+*.pkl
+*.joblib
+
+# Large data files
+*.zip
+*.tar.gz
+*.rar
+
+# Build directories
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
