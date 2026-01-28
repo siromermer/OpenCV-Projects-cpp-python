@@ -14,6 +14,51 @@
 
 <br>
 
+#### Deep Learning (PyTorch, TensorFlow)
+
+##### Object Detection
+<table>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectDetection-yolo-gui">YOLO Object Detection GUI</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectDetection-yolo-cpp-inference">YOLO Model Inference in C++</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectDetection-yolo-nas-model-training">Custom YOLO-NAS Training Pipeline</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-yolo-byttetrack-botsort">YOLO Object Tracking (ByteTrack & BoTSORT)</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectDetection-faster-rcnn-model-training">Faster R-CNN Model Training</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjecDetection-DETR">DETR Object Detection</a></td>
+  </tr>
+</table>
+
+##### Image Segmentation
+<table>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Segmentation-SAM2">SAM2 Image Segmentation</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Segmentation-mask-rcnn-model-training">Mask R-CNN Model Training</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Sequential-Detection-YOLO-Segmentation-SAM">Detection (YOLO) + Segmentation (SAM)</a></td>
+  </tr>
+</table>
+
+##### Image Classification
+<table>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ImageClassification-pytorch-model-training">PyTorch Image Classification Training</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ImageClassification-tensorflow-model-training">TensorFlow Image Classification Training</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ImageClassification-ViT(VisionTransformer)-model-training">Vision Transformer (ViT) Model Training</a></td>
+  </tr>
+</table>
+
+##### Combined Pipelines
+<table>
+  <tr>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Sequential-Detection-Classification">Detection (YOLO) + Classification (TensorFlow)</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Blurring-faces-yolo-sam">Blurring Faces with YOLO and SAM Models</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/DeepLearning-Grounding-DINO">Grounding DINO for Object Detection</a></td>
+  </tr>
+</table>
+
+<br>
+
 #### Classical Computer Vision (Pure OpenCV Mostly)
 
 <table>
@@ -29,29 +74,13 @@
   </tr>
   <tr>
     <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectTracking-background-subtraction">Tracking Objects with Background Subtraction</a> </td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/OCR-Text-Extraction">Text extraction from pages (OCR)</a> </td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Perspective-Transformation-opencv">Perspective Transformation</a>  </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/OCR-pytesseract-text-extraction">Text Extraction from Pages (OCR)</a> </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/OpenCV-perspective-transformation">Perspective Transformation</a>  </td>
   </tr>
  <tr>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Color-based-object-detection-gui">Color-based Object Detection GUI</a></td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Opencv-object-detection-Cascade">Object Detection with OpenCV Cascade Classifiers</a>   </td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/OpenCV-color-based-gui">Color-based Object Detection GUI</a></td>
+    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/ObjectDetection-opencv-cascade-classifiers">Object Detection with OpenCV Cascade Classifiers</a>   </td>
     <td></td>
-  </tr>
-</table>
-
-<br>
-
-#### Deep Learning (PyTorch, TensorFlow)
-<table>
-  <tr>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-detection-gui">YOLO Object Detection GUI</a></td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Detect-YOLO-Segment-SAM">Detection (YOLO) + Segmentation (SAM)</a></td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Sequential-Detection-Classification">Detection (YOLO) + Classification (TensorFlow)</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-NAS-custom-training">Custom YOLO-NAS Training Pipeline</a></td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/YOLO-inference-cpp">YOLO Model Inference in C++ </a></td>
-    <td><a href="https://github.com/siromermer/OpenCV-Projects-cpp-python/tree/master/Blurring-faces-yolo-sam">Blurring Faces with YOLO and SAM Models</a></td>
   </tr>
 </table>
 
